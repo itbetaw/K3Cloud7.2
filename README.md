@@ -1,0 +1,1 @@
+.netCore对接金蝶K3CLoud7.2以上的版本API接口封装
